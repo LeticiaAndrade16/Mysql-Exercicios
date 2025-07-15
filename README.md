@@ -8,7 +8,7 @@ Aqui você encontrará scripts SQL simples, focados em criação de tabelas, man
 
 ## 📂 Estrutura
 
-- **01-produtos.sql**  
+- **01-livraria.sql**  
   Script que cria uma tabela de produtos para uma livraria fictícia. Inclui inserção, atualização, exclusão e consultas simples.
 
 ## 💻 Comandos utilizados
